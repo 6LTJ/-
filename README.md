@@ -23,7 +23,6 @@ Go to the **Proxy > Intercept** tab.
 Click the **Intercept is off** button, so it toggles to **Intercept is on.**
 ![image](https://user-images.githubusercontent.com/105283235/173320445-be6b57d5-9234-4606-afdc-481924eaec08.png)
 Click Open Browser.
-![image](https://user-images.githubusercontent.com/105283235/173320959-a565155f-4bb8-4dc9-be73-1aab219f22fa.png)
 
 ### ****第 2 步：攔截請求****
 
